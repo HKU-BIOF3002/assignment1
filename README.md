@@ -28,15 +28,15 @@ Note that this is an *Individual Assessment* and you must submit your own work i
 
 -  Do not clone or fork this repository directly. Follow these steps to create your own copy:
 
-1. **Create your repository:** Click the green **"Use this template"** button at the top of this page and select **"Create a new repository"**.
-2. **Configure settings:** 
-   * Set the Repository name (e.g., `assignment-1-yourname`).
-   * Choose **Private** (so other students cannot copy your work).
-   * Click **"Create repository from template"**.
-3. **Clone to CPOS HPCF3:** Go to your newly created repository page, click the **Code** button, copy the URL. Navigate to an appropriate directory under your home folder and run this in the terminal:
-   ```bash
-   git clone <YOUR-NEW-REPOSITORY-URL>
-   ```
+      1. **Create your repository:** Click the **"Use this template"** button at the top right of this page and select **"Create a new repository"**.
+      2. **Configure settings:** 
+         * Set the Repository name (e.g., `assignment-1-yourname`).
+         * Choose **Private** (so other students cannot copy your work).
+         * Click **"Create repository from template"**.
+      3. **Clone to CPOS HPCF3:** Go to your newly created repository page, click the **Code** button, copy the URL. Navigate to an appropriate directory under your home folder and run this in the terminal:
+         ```bash
+         git clone <YOUR-NEW-REPOSITORY-URL>
+         ```
 -   Below is a set of questions that you will have to address using your dataset. Some questions may require the generation of figures (using *R* or *Python*) or additional justification of your response.
 
 -   As each of you will be analysing a different file, it is expected that each of you will have different answers for most questions. Marks will be allocated based on the dataset you analysed.
