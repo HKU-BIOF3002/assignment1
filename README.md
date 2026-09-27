@@ -33,7 +33,7 @@ Note that this is an *Individual Assessment* and you must submit your own work i
    * Set the Repository name (e.g., `assignment-1-yourname`).
    * Choose **Private** (so other students cannot copy your work).
    * Click **"Create repository from template"**.
-3. **Clone to CPOS HPCF3:** Go to your newly created repository page, click the green **Code** button, copy the URL. Navigate to an appropriate directory under your home folder and run this in the terminal:
+3. **Clone to CPOS HPCF3:** Go to your newly created repository page, click the **Code** button, copy the URL. Navigate to an appropriate directory under your home folder and run this in the terminal:
    ```bash
    git clone <YOUR-NEW-REPOSITORY-URL>
    ```
