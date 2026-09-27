@@ -18,7 +18,7 @@ During weeks 2 and 3 in this course, you generated long-read DNA sequencing data
 
 Information on how to access the CPOS HPC (hpcf3) is available from the Lecture Notes in Week 4. The data that were generated are located on the server in:
 
-`/home/groups/biof3002/Data/fastq`
+`/home/groups/biof3002/2026/fastq`
 
 The samples are labelled from barcode01 to barcode20, along with letter A or B corresponding to the cell line. For this assignment, you should use the sample that you prepared in the laboratory practical session as indicated by the sample+barcode number to answer Q1-5. If you feel that your sample has insufficient data, you may choose another sample+barcode to answer the question but remember to state the correct sample+barcode that you have used for the assignment. For Q6, you can use any or all of the samples to answer the question.
 
@@ -59,7 +59,7 @@ Note that this is an [Individual Assessment,]{.underline} and you must submit yo
 
 ## Paths to useful files on the CPOS HPC server
 
--   ***Long read sequencing data:*** `/home/groups/biof3002/Data/fastq/`
+-   ***Long read sequencing data:*** `/home/groups/biof3002/2026/fastq/`
 
 -   ***Reference genome:*** `/home/groups/biof3002/ref/reference_genome/hg38/hg38.fa`
 
