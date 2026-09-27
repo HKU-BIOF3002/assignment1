@@ -22,7 +22,7 @@ Information on how to access the CPOS HPC (hpcf3) is available from the Lecture 
 
 The samples are labelled from barcode01 to barcode20, along with letter A or B corresponding to the cell line. For this assignment, you should use the sample that you prepared in the laboratory practical session as indicated by the sample+barcode number to answer Q1-5. If you feel that your sample has insufficient data, you may choose another sample+barcode to answer the question but remember to state the correct sample+barcode that you have used for the assignment. For Q6, you can use any or all of the samples to answer the question.
 
-Note that this is an [Individual Assessment,]{.underline} and you must submit your own work independent of your laboratory partner.
+Note that this is an *Individual Assessment* and you must submit your own work independent of your laboratory partner.
 
 ## Instructions
 
@@ -53,9 +53,9 @@ Note that this is an [Individual Assessment,]{.underline} and you must submit yo
 
 ## Use of Generative AI
 
--   There is [no]{.underline} restriction on the use of generative AI, such as GitHub Co-Pilot, to help you with the code to answer the questions.
+-   There is *no* restriction on the use of generative AI, such as GitHub Co-Pilot, to help you with the code to answer the questions.
 
--   However, the in class quiz will assess your understanding of the code used to answer the questions, so it is imperative that you have an understanding of what your code is doing.
+-   However, the in class quiz (Wed 21st Oct) will assess your understanding of the code used to answer the questions, so it is imperative that you have an understanding of what your code is doing.
 
 ## Paths to useful files on the CPOS HPC server
 
