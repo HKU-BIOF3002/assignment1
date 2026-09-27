@@ -6,7 +6,7 @@
 
 ## Submission instructions
 
-The state of the main branch your GitHub repositry at the time of the Due Date will be considered the final submitted version of your assignment. If you make further commits to the repository after the due date, a late penalty of -10% (-2.5 marks) per day will apply.
+The state of the main branch your GitHub repositry at the time of the Due Date will be considered the final submitted version of your assignment. If you make further commits to the repository after the due date, a late penalty of -10% (-2 marks) per day will apply.
 
 You **MUST** also submit the link to your assignment's GitHub repository on Moodle by the Due Date. A submission of the answers as a PDF and the script(s) in a single zipped file on Moodle is also acceptable in lieu of a link to your assignment's GitHub repository will also be accepted but will result in a 1 mark deduction.
 
@@ -75,7 +75,7 @@ Note that this is an *Individual Assessment* and you must submit your own work i
 
 2.  Align your sample to the human reference genome (hg38). What % of reads could be mapped? **(2 marks)**
 
-    *(Tip: Note the definition of primary, secondary, and supplementary mapped reads discussed in the lecture.)*
+    *(Tips: Note the definition of primary, secondary, and supplementary mapped reads discussed in the lecture.)*
 
 3.  Compare the read length distribution between the primary mapped and unmapped reads. Make a box plot to compare their read length distribution. Is the difference significant? **(3 marks)**
    
