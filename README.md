@@ -10,7 +10,7 @@ The state of the main branch of your GitHub repository at the time of the Due Da
 
 You **MUST** also submit the link to your assignment's GitHub repository on Moodle by the Due Date. 
 
-Submission of the answers as a PDF, together with the script(s) in a single zipped file on Moodle, is also acceptable in lieu of providing a link to your assignment's GitHub repository. However, this submission method will result in a 1-mark deduction.
+Submission of the answers as a PDF, together with the script(s) in a single zipped file on Moodle, is also acceptable in lieu of providing a link to your assignment's GitHub repository. However, this submission method will result in a 1-mark deduction. In the case where **BOTH** a GitHub repository AND a zipped file is submitted on Moodle, the GitHub repository will be treated as the Final Submission.
 
 ## Introduction
 
