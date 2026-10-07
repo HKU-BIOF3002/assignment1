@@ -38,10 +38,13 @@ Note that this is an *Individual Assessment* and you must submit your own work i
          * Set the Repository name (e.g., `assignment-1-yourname`).
          * Choose **Private** (so other students cannot copy your work).
          * Click **"Create repository from template"**.
-      4. **Clone to CPOS HPCF3:** Go to your newly created repository page, click the **Code** button, copy the URL. Navigate to an appropriate directory under your home folder and run this in the terminal:
+      4. To prepare to clone a private directory to CPOS HPCF3, you must first setup a [Personal Access Token (PAT)](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens#creating-a-personal-access-token-classic) in GitHub.
+      5. **Clone to CPOS HPCF3:** Go to your newly created repository page, click the **Code** button, copy the URL. Navigate to an appropriate directory under your home folder and run this in the terminal:
          ```bash
          git clone <YOUR-NEW-REPOSITORY-URL>
          ```
+         Follow the prompts to enter your GitHub username and the PAT as the password from step iv.
+         
 -   Below are a set of questions that you will have to address using your dataset. Some questions may require the generation of figures (using *R* or *Python*) or additional justification of your response.
 
 -   As each of you will be analysing a different file, it is expected that each of you will have different answers for most questions. Marks will be allocated based on the dataset you analysed.
