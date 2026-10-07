@@ -38,8 +38,9 @@ Note that this is an *Individual Assessment* and you must submit your own work i
          * Set the Repository name (e.g., `assignment-1-yourname`).
          * Choose **Private** (so other students cannot copy your work).
          * Click **"Create repository from template"**.
-      4. To prepare to clone a private directory to CPOS HPCF3, you must first setup a [Personal Access Token (PAT)](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens#creating-a-personal-access-token-classic) in GitHub.
-      5. **Clone to CPOS HPCF3:** Go to your newly created repository page, click the **Code** button, copy the URL. Navigate to an appropriate directory under your home folder and run this in the terminal:
+      4. **Add Jason Wong (jwon7011) as a collaborator:** Under **Settings** in the repository, click on **Collaborators**, then click "Add people" and search for the user jwon7011.
+      5. To prepare to clone a private directory to CPOS HPCF3, you must first setup a [Personal Access Token (PAT)](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens#creating-a-personal-access-token-classic) in GitHub.
+      6. **Clone to CPOS HPCF3:** Go to your newly created repository page, click the **Code** button, copy the URL. Navigate to an appropriate directory under your home folder and run this in the terminal:
          ```bash
          git clone <YOUR-NEW-REPOSITORY-URL>
          ```
